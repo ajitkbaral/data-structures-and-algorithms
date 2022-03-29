@@ -1,6 +1,3 @@
-from traceback import print_stack
-
-
 class Node:
     def __init__(self, value):
         self.value = value
